@@ -1,7 +1,7 @@
 # 📊 IBM Data Analyst Capstone: Emerging Tech Skills Analysis
 
 <p float="left">
-    <img src="https://images.credly.com/size/340x340/images/73d47c3c-5efb-4f07-8b42-6c2945d4f3c1/image.png" width="300" />
+    <img src="https://images.credly.com/size/680x680/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" width="300" />
     <img src="https://github.com/your-username/IBM-Data-Analyst-Capstone/blob/main/assets/dashboard-preview.png" width="300" />
 </p>
 
