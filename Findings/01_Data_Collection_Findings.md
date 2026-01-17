@@ -1,3 +1,4 @@
+
 # 📊 Data Collection - Analysis Findings
 
 <div align="center">
@@ -8,10 +9,10 @@
 ![Python Requests](https://img.shields.io/badge/Python_Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Extraction](https://img.shields.io/badge/Data_Extraction-FF9900?style=for-the-badge&logo=database&logoColor=white)
 
-![Data Volume](https://img.shields.io/badge/📊_65K_Records-667EEA?style=for-the-badge)
-![Countries](https://img.shields.io/badge/🌍_185_Countries-27AE60?style=for-the-badge)
-![Job Postings](https://img.shields.io/badge/💼_1,173_Jobs-F97316?style=for-the-badge)
-![Languages](https://img.shields.io/badge/🔠_10_Languages-FF6B6B?style=for-the-badge)
+![Data Volume](https://img.shields.io/badge/Records-65K-667EEA?style=for-the-badge)
+![Countries](https://img.shields.io/badge/Countries-185-27AE60?style=for-the-badge)
+![Job Postings](https://img.shields.io/badge/Job_Postings-1,173-F97316?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-10-FF6B6B?style=for-the-badge)
 
 </div>
 
@@ -23,9 +24,9 @@
 ## 📈 Key Findings
 
 ### 1. HTTP Protocol Mastery for Data Collection
-![GET Requests](https://img.shields.io/badge/GET_Requests-3498DB?style=flat-square)
-![POST Requests](https://img.shields.io/badge/POST_Requests-8E44AD?style=flat-square)
-![Status Codes](https://img.shields.io/badge/Status_Codes-2ECC71?style=flat-square)
+![GET Requests](https://img.shields.io/badge/GET-Requests-3498DB?style=flat-square)
+![POST Requests](https://img.shields.io/badge/POST-Requests-8E44AD?style=flat-square)
+![Status Codes](https://img.shields.io/badge/Status-Codes-2ECC71?style=flat-square)
 
 - **Method Diversity**: Successfully implemented GET and POST requests with proper parameters
 - **Status Code Handling**: Properly managed HTTP response codes (200 OK, error handling)
@@ -33,9 +34,9 @@
 - **Business Impact**: Established reliable data collection pipeline foundation for real-time market analysis
 
 ### 2. API Integration for Job Market Analysis
-![API Success](https://img.shields.io/badge/API_Success_200-27AE60?style=flat-square)
-![Python Jobs](https://img.shields.io/badge/Python_1,173_Jobs-3776AB?style=flat-square)
-![LA Market](https://img.shields.io/badge/LA_640_Jobs-FF6B6B?style=flat-square)
+![API Success](https://img.shields.io/badge/API-Success-27AE60?style=flat-square)
+![Python Jobs](https://img.shields.io/badge/Python-1,173_Jobs-3776AB?style=flat-square)
+![LA Market](https://img.shields.io/badge/LA-640_Jobs-FF6B6B?style=flat-square)
 
 - **Technology Demand Quantified**: Collected job posting data for 12+ technologies across 7 major US cities
 - **Python Dominance**: 1,173 Python job postings identified (highest among technologies analyzed)
@@ -44,9 +45,9 @@
 - **Business Impact**: Real-time labor market intelligence for strategic hiring and skill development planning
 
 ### 3. Web Scraping for Programming Language Trends
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup_4-8B5CF6?style=flat-square)
-![Swift Salary](https://img.shields.io/badge/Swift_$130,801-FF9900?style=flat-square)
-![HTML Parsing](https://img.shields.io/badge/HTML_Parsing-00AB6B?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-8B5CF6?style=flat-square)
+![Swift Salary](https://img.shields.io/badge/Swift-$130,801-FF9900?style=flat-square)
+![HTML Parsing](https://img.shields.io/badge/HTML-Parsing-00AB6B?style=flat-square)
 
 - **Salary Data Extraction**: Successfully scraped average annual salaries for 10 programming languages
 - **High-Value Languages Identified**: Swift ($130,801), Python ($114,383), C++ ($113,865) as top earners
@@ -54,10 +55,10 @@
 - **Business Impact**: Competitive salary benchmarking for talent acquisition and retention strategies
 
 ### 4. Survey Data Exploration & Initial Analysis
-![Survey Size](https://img.shields.io/badge/65,457×114-667EEA?style=flat-square)
-![Mean Age](https://img.shields.io/badge/Mean_Age_33-FF6B6B?style=flat-square)
-![Global Reach](https://img.shields.io/badge/185_Countries-27AE60?style=flat-square)
-![Professionals](https://img.shields.io/badge/76.7%_Professionals-F97316?style=flat-square)
+![Survey Size](https://img.shields.io/badge/Dataset-65,457×114-667EEA?style=flat-square)
+![Mean Age](https://img.shields.io/badge/Mean_Age-33-FF6B6B?style=flat-square)
+![Global Reach](https://img.shields.io/badge/Countries-185-27AE60?style=flat-square)
+![Professionals](https://img.shields.io/badge/Professional_Devs-76.7%25-F97316?style=flat-square)
 
 - **Dataset Scale**: 65,457 rows × 114 columns of global developer survey data
 - **Demographic Insights**: Mean participant age = 33 years, 185 unique countries represented
@@ -68,9 +69,9 @@
 ## 🔍 Technical Insights
 
 ### Data Processing Details
-![Data Quality](https://img.shields.io/badge/Quality_Score_85.8%_Complete-2ECC71?style=flat-square)
-![Missing Data](https://img.shields.io/badge/16.2%_Missing_RemoteWork-FF6B6B?style=flat-square)
-![Processing Efficiency](https://img.shields.io/badge/⚡_Efficient_Processing-3498DB?style=flat-square)
+![Data Quality](https://img.shields.io/badge/Quality_Score-85.8%25-2ECC71?style=flat-square)
+![Missing Data](https://img.shields.io/badge/Missing_RemoteWork-16.2%25-FF6B6B?style=flat-square)
+![Processing Efficiency](https://img.shields.io/badge/Processing-Efficient-3498DB?style=flat-square)
 
 - **Data Volume Processed**: 
   - Survey data: 65,457 records × 114 features
@@ -84,10 +85,10 @@
 - **Processing Efficiency**: Successful handling of mixed data types and large-scale data extraction
 
 ### Analytical Methods Applied
-![Pandas](https://img.shields.io/badge/Pandas_EDA-150458?style=flat-square&logo=pandas&logoColor=white)
-![JSON Parsing](https://img.shields.io/badge/JSON_Parsing-000000?style=flat-square&logo=json&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex_Processing-8E44AD?style=flat-square)
-![Error Handling](https://img.shields.io/badge/Robust_Error_Handling-FF9900?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-150458?style=flat-square&logo=pandas&logoColor=white)
+![JSON Parsing](https://img.shields.io/badge/JSON-Parsing-000000?style=flat-square&logo=json&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-Processing-8E44AD?style=flat-square)
+![Error Handling](https://img.shields.io/badge/Error-Handling-FF9900?style=flat-square)
 
 - **API Integration**: Structured parameter passing and error handling for reliable data collection
 - **Web Scraping**: BeautifulSoup parsing with robust table structure navigation
@@ -98,9 +99,9 @@
 ## 🚀 Recommendations
 
 ### Immediate Actions
-![Python Priority](https://img.shields.io/badge/🚀_Priority_Python-3776AB?style=flat-square)
-![High Value Training](https://img.shields.io/badge/💰_High_Value_Languages-FF9900?style=flat-square)
-![Talent Gaps](https://img.shields.io/badge/📍_Address_LA_Gaps-FF6B6B?style=flat-square)
+![Python Priority](https://img.shields.io/badge/Priority-Python_Development-3776AB?style=flat-square)
+![High Value Training](https://img.shields.io/badge/Training-High_Value_Languages-FF9900?style=flat-square)
+![Talent Gaps](https://img.shields.io/badge/Talent_Gaps-LA_Market-FF6B6B?style=flat-square)
 
 1. **Prioritize Python Skills Development**:
    - Highest job demand (1,173 postings) indicates critical market need
@@ -115,9 +116,9 @@
    - Consider targeted recruitment or training initiatives in high-demand regions
 
 ### Strategic Considerations
-![Automation](https://img.shields.io/badge/🤖_Automate_Pipeline-3498DB?style=flat-square)
-![Emerging Tech](https://img.shields.io/badge/🚀_Expand_Coverage-8B5CF6?style=flat-square)
-![Quality](https://img.shields.io/badge/🔧_Enhance_Quality-2ECC71?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Pipeline-3498DB?style=flat-square)
+![Emerging Tech](https://img.shields.io/badge/Coverage-Emerging_Tech-8B5CF6?style=flat-square)
+![Quality](https://img.shields.io/badge/Quality-Enhancement-2ECC71?style=flat-square)
 
 1. **Real-Time Data Pipeline Implementation**:
    - Convert API collection scripts to automated scheduled jobs
@@ -132,10 +133,10 @@
    - Standardize age and compensation fields for better analysis
 
 ## 📊 Visual Evidence
-![HTTP Flow](https://img.shields.io/badge/🌐_HTTP_Request_Response_Cycle-00AB6B?style=flat-square)
-![API Structure](https://img.shields.io/badge/📦_JSON_API_Data-000000?style=flat-square&logo=json&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/🕷️_HTML_Table_Extraction-8B5CF6?style=flat-square)
-![Dataset Overview](https://img.shields.io/badge/📋_114_Feature_Survey-667EEA?style=flat-square)
+![HTTP Flow](https://img.shields.io/badge/HTTP-Flow_Cycle-00AB6B?style=flat-square)
+![API Structure](https://img.shields.io/badge/API-JSON_Data-000000?style=flat-square&logo=json&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-Table_Extraction-8B5CF6?style=flat-square)
+![Dataset Overview](https://img.shields.io/badge/Dataset-114_Features-667EEA?style=flat-square)
 
 1. **HTTP Request/Response Flow**: Demonstrated complete web data interaction cycle
 2. **API Data Structure**: JSON parsing of complex job posting information
@@ -167,10 +168,10 @@ def extract_age(age_str):
 ```
 
 ## 📋 Data Quality Assessment
-![Completeness](https://img.shields.io/badge/✅_85.8%_Completeness-2ECC71?style=flat-square)
-![Consistency](https://img.shields.io/badge/🔄_Consistency_Issues-FF9900?style=flat-square)
-![Accuracy](https://img.shields.io/badge/🎯_Realistic_Counts-27AE60?style=flat-square)
-![Timeliness](https://img.shields.io/badge/⏱️_Real_Time-3498DB?style=flat-square)
+![Completeness](https://img.shields.io/badge/Completeness-85.8%25-2ECC71?style=flat-square)
+![Consistency](https://img.shields.io/badge/Consistency-Issues-FF9900?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy-Realistic_Counts-27AE60?style=flat-square)
+![Timeliness](https://img.shields.io/badge/Timeliness-Real_Time-3498DB?style=flat-square)
 
 - **Completeness**: 85.8% data availability overall, but key fields (salary) only 35.8% complete
 - **Consistency**: Age data requires standardization (range vs. numeric formats)
@@ -178,9 +179,9 @@ def extract_age(age_str):
 - **Timeliness**: Real-time API data provides current market snapshot
 
 ## 🌐 Global Insights
-![Geographic](https://img.shields.io/badge/🗺️_185_Countries_Covered-27AE60?style=flat-square)
-![Market Variation](https://img.shields.io/badge/📈_Salary_Variation_46K-FF6B6B?style=flat-square)
-![Demographic](https://img.shields.io/badge/👥_Diverse_Age_Range-667EEA?style=flat-square)
+![Geographic](https://img.shields.io/badge/Geographic-185_Countries-27AE60?style=flat-square)
+![Market Variation](https://img.shields.io/badge/Salary_Variation-$46K-FF6B6B?style=flat-square)
+![Demographic](https://img.shields.io/badge/Demographic-Diverse_Age-667EEA?style=flat-square)
 
 - **Geographic Reach**: Survey covers 185 countries for comprehensive global perspective
 - **Market Variation**: Significant salary differences between languages (Swift $130K vs PHP $84K)
@@ -190,9 +191,9 @@ def extract_age(age_str):
 
 <div align="center">
 
-![Next Step](https://img.shields.io/badge/➡️_Next:_Data_Wrangling-FF9900?style=for-the-badge)
-![Status](https://img.shields.io/badge/✅_Collection_Complete-27AE60?style=for-the-badge)
-![Date](https://img.shields.io/badge/📅_February_28,_2025-3498DB?style=for-the-badge)
+![Next Step](https://img.shields.io/badge/Next_Step-Data_Wrangling-FF9900?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Collection_Complete-27AE60?style=for-the-badge)
+![Date](https://img.shields.io/badge/Date-February_28,_2025-3498DB?style=for-the-badge)
 
 </div>
 
