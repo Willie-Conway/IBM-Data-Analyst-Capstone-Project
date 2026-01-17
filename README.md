@@ -96,6 +96,14 @@ This comprehensive capstone project demonstrates end-to-end data analysis skills
 │   ├── Structure Of A Report.pdf
 │   └── IBM Data Analyst Capstone Project Cheatsheet.pdf
 │
+├──📂 Findings/
+├── 📄 01_Data_Collection_Findings.md
+├── 📄 02_Data_Wrangling_Findings.md
+├── 📄 03_Exploratory_Data_Analysis_Findings.md
+├── 📄 04_Data_Visualization_Findings.md
+├── 📄 05_Dashboard_Findings.md
+└── 📄 06_Final_Presentation_Findings.md
+│
 ├── 📜 LICENSE
 ├── 📜 README.md
 └── 📜 requirements.txt
