@@ -9,8 +9,8 @@
 ![Duplicates](https://img.shields.io/badge/Duplicate%20Removal-FF9900?style=for-the-badge&logo=pandas&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-667EEA?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Records Processed](https://img.shields.io/badge/Records-65437-27AE60?style=for-the-badge)
-![Missing Resolved](https://img.shields.io/badge/Missing%20Resolved-52044-FF6B6B?style=for-the-badge)
+![Records Processed](https://img.shields.io/badge/Records-65,437-27AE60?style=for-the-badge)
+![Missing Resolved](https://img.shields.io/badge/Missing%20Resolved-52,044-FF6B6B?style=for-the-badge)
 ![Duplicates Cleaned](https://img.shields.io/badge/Duplicates-Cleaned-3498DB?style=for-the-badge)
 ![Features Created](https://img.shields.io/badge/Features-5%20New-F97316?style=for-the-badge)
 
@@ -35,10 +35,10 @@
 - **Impact**: Maintained data integrity while eliminating redundant patterns for more accurate analysis
 
 ### 2. Systematic Missing Value Treatment
-![Missing Values](https://img.shields.io/badge/Missing%20Values-10631-FF6B6B?style=flat-square)
+![Missing Values](https://img.shields.io/badge/Missing%20Values-10,631-FF6B6B?style=flat-square)
 ![RemoteWork Imputation](https://img.shields.io/badge/RemoteWork-Hybrid%2042.8%25-8B5CF6?style=flat-square)
-![Salary Missing](https://img.shields.io/badge/Salary%20Missing-42002-3498DB?style=flat-square)
-![Forward Fill](https://img.shields.io/badge/Forward%20Fill-10971-00AB6B?style=flat-square)
+![Salary Missing](https://img.shields.io/badge/Salary%20Missing-$42,002-3498DB?style=flat-square)
+![Forward Fill](https://img.shields.io/badge/Forward%20Fill-10,971-00AB6B?style=flat-square)
 
 - **Major Missing Columns**: ConvertedCompYearly (64.2%), JobSatPoints (55%), RemoteWork (16.2%)
 - **Imputation Strategies Applied**:
