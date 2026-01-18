@@ -22,6 +22,7 @@
     <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/2ceef0c3b34306e0bd41f25993583869a3e09a7a/Image/Line%20Chart%20-%20Job%20Satisfaction%20by%20Experience%20Level%20(Education).png" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/2ceef0c3b34306e0bd41f25993583869a3e09a7a/Image/Programing%20languages%20vs%20Job%20Satisfaction.png" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/d1466d1ed8f8264a623b0c7f00ec2c7a1bdfa732/Image/Top%205%20Developer%20Roles.png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/784f3c043283c82334e79d7a64d9502a60bee15f/Labs/Building%20a%20Dashboard/Lab%2026%20-%20Option%20B%20-%20Building%20A%20Dashboard%20With%20Google%20Looker%20Studio/Survey_Dashboard.pdf" width="300" />
 </p>
 
 This comprehensive capstone project demonstrates end-to-end data analysis skills for identifying emerging technology trends. As a Data Analyst at a global IT consulting firm, I analyzed multiple data sources to identify the most in-demand skills for 2024, providing actionable insights for strategic workforce planning and technology investment.
@@ -32,6 +33,7 @@ This comprehensive capstone project demonstrates end-to-end data analysis skills
 [![Alternative Dashboard](https://img.shields.io/badge/📈_IBM_Cognos_Dashboard-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](DataAnalystPresentation.pdf)
 
 ![Dashboard Preview](https://github.com/your-username/IBM-Data-Analyst-Capstone/blob/main/assets/Survey%20Dashboard.gif)
+
 
 ## 📁 Project Structure
 
