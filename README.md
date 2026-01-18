@@ -32,7 +32,7 @@ This comprehensive capstone project demonstrates end-to-end data analysis skills
 [![View Dashboard](https://img.shields.io/badge/📊_View_Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](Survey_Dashboard.pdf) 
 [![Alternative Dashboard](https://img.shields.io/badge/📈_IBM_Cognos_Dashboard-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](DataAnalystPresentation.pdf)
 
-![Dashboard Preview](https://github.com/your-username/IBM-Data-Analyst-Capstone/blob/main/assets/Survey%20Dashboard.gif)
+![Dashboard Preview](https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/784f3c043283c82334e79d7a64d9502a60bee15f/Labs/Building%20a%20Dashboard/Lab%2026%20-%20Option%20B%20-%20Building%20A%20Dashboard%20With%20Google%20Looker%20Studio/Survey%20Dashboard.gif)
 
 
 ## 📁 Project Structure
