@@ -15,12 +15,12 @@
 ## 🎯 Project Overview
 
 <p float="left">
-    <img src="https://github.com/your-username/IBM-Data-Analyst-Capstone/blob/main/assets/language-demand.png" width="300" />
-    <img src="https://github.com/your-username/IBM-Data-Analyst-Capstone/blob/main/assets/database-trends.png" width="300" />
-    <img src="https://github.com/your-username/IBM-Data-Analyst-Capstone/blob/main/assets/ide-popularity.png" width="300" />
-    <img src="https://github.com/your-username/IBM-Data-Analyst-Capstone/blob/main/assets/salary-analysis.png" width="300" />
-    <img src="https://github.com/your-username/IBM-Data-Analyst-Capstone/blob/main/assets/ai-adoption.png" width="300" />
-    <img src="https://github.com/your-username/IBM-Data-Analyst-Capstone/blob/main/assets/dashboard-screenshot.png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/7b4b7cb3c6012b1f7edf8865d8ce2dcff61a7859/Image/Histogram%20of%20Professional%20Coding%20Experience%20(YearsCodePro).png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/7b4b7cb3c6012b1f7edf8865d8ce2dcff61a7859/Image/Box%20Plot%20of%20Years%20of%20Professional%20Coding%20by%20Top%205%20job%20Satisfaction%20Levels.png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/2ceef0c3b34306e0bd41f25993583869a3e09a7a/Image/Bubble%20Plot%20-%20Compensation%20vs%20Job%20Satisfaction%20with%20age%20as%20Bubble%20Size.png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/2ceef0c3b34306e0bd41f25993583869a3e09a7a/Image/Bubble%20Plot%20-%20Compensation%20vs%20job%20Satisfaction%20(Bubble%20size%20-%20Age%20).png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/2ceef0c3b34306e0bd41f25993583869a3e09a7a/Image/Line%20Chart%20-%20Job%20Satisfaction%20by%20Experience%20Level%20(Education).png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/2ceef0c3b34306e0bd41f25993583869a3e09a7a/Image/Programing%20languages%20vs%20Job%20Satisfaction.png" width="300" />
 </p>
 
 This comprehensive capstone project demonstrates end-to-end data analysis skills for identifying emerging technology trends. As a Data Analyst at a global IT consulting firm, I analyzed multiple data sources to identify the most in-demand skills for 2024, providing actionable insights for strategic workforce planning and technology investment.
