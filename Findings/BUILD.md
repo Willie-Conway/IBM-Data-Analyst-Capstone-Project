@@ -117,7 +117,7 @@ Other Tools: [List]
 
 Version 2: Minimalist Format
 
-```markdown
+
 # [Project Title]
 
 ## BACKGROUND
