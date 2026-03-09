@@ -2,7 +2,7 @@
 
 <p float="left">
     <img src="https://images.credly.com/size/680x680/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/0230b421adf220415081c6fa2046f3620263d147/Image/Emerging-Tech.png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Capstone-Project/blob/440adea4ec6aabad6505dd1fea1b38d8620c296b/Image/Stack%20Overflow.png" width="300" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
